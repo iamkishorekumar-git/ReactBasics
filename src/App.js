@@ -3,9 +3,10 @@ function App()
 
 {
     return (
-        // <input placeholder="hi there" />
 
-        <textarea autoFocus = {true}  maxLength={5}/>
+      <div>
+        show animals
+      </div>
       );
     
 }
