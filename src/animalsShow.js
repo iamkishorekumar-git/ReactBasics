@@ -1,9 +1,8 @@
-function AnimalShow()
+function AnimalShow({type})
 {
     return(
         <div>
-
-            cow
+            <h1>{type}</h1>
         </div>
     )
 }
